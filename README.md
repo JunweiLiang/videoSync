@@ -10,6 +10,7 @@
 
 	2. Preparation:
 		(1)  if your platform is not ubuntu, you may need to recompile assignKmeans.cpp to assignKmeans binary
+		(2) since the file selected_stftabs_w100h50_0.4.txt.cluster_centres is big, you will need to download it manually from https://github.com/JunweiLiang/videoSync/blob/master/selected_stftabs_w100h50_0.4.txt.cluster_centres and put it in the same directory as the scripts.
 
 
 	3. Example command:
