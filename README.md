@@ -4,7 +4,7 @@
 		(1) ffmpeg >= 2.2.4
 		(2) sox >= v14.4.1
 		(3) parallel
-		(4) python
+		(4) python 2.7
 			a. numpy
 			b. scipy
 
